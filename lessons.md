@@ -1,0 +1,1 @@
+useReducer becomes useful when there are mulitple relationships between the states
